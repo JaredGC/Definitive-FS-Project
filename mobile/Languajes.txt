@@ -1,0 +1,2 @@
+For app services: Java
+For app front: React Native
