@@ -1,0 +1,2 @@
+Backend principal: PHP-LARAVEL
+Apis: Node.js
