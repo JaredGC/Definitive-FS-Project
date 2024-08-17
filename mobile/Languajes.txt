@@ -1,0 +1,2 @@
+For app services: Java for the widget
+For app front: React Native
