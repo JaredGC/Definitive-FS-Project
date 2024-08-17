@@ -1,2 +1,2 @@
 Frontend principal: none
-Extra: none
+Extra: Vue
