@@ -1,0 +1,2 @@
+Frontend principal: React
+Extra: Vue
