@@ -1,2 +1,2 @@
-Frontend principal: React.js
-Extra: none
+Frontend principal: React
+Extra: Vue
